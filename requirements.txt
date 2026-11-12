@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pytest
+ziglang
+schemdraw
+mujoco==4.0.0
+imageio
+pillow
